@@ -1,6 +1,7 @@
 {
     "name": "filemanagerbot",
     "version": "0.0.1",
+    "main": "app.js",
     "dependencies": {
         "node-fetch": "^2.6.0",
         "save": "^2.4.0",
