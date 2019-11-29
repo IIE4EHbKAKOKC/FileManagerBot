@@ -1,0 +1,12 @@
+{
+    "name": "filemanagerbot",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-fetch": "^2.6.0",
+        "save": "^2.4.0",
+        "telegraf": "^3.33.3"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
